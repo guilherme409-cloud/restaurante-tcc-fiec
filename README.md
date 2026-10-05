@@ -26,7 +26,7 @@ Retorno do projeto ao marco 1 -> Desenvolvimento dos casos de uso e modelos lóg
         1. Acessar pasta raiz restaurante-tcc-fiec,
         2. Executar:
 
-        chmod +x PROGRESS.bat ./PROGRESS.bat
+        ./PROGRESS.bat
 <=<>=>
 
 ## AUTORIA
