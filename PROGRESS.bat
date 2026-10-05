@@ -3,4 +3,4 @@ echo "Última atualização: $(date)" > atualizacao.txt
 
 git add .
 git commit -m "auto: atualizacao emergencial"
-git push origin main
+git push -u origin main
